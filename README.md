@@ -15,7 +15,4 @@
   Group of people:-
 </h4>
 <img src = "10.11.2024_12.53.03_REC.png">
-<h4>
-  live photo detection:-
-</h4>
-<img src = "10.11.2024_12.54.36_REC.png">
+
