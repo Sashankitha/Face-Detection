@@ -10,9 +10,9 @@
 <h4>
   Single person:- 
 </h4>
-<img src = "10.11.2024_12.50.13_REC.png">
+<img src = "WhatsApp Image 2024-11-22 at 12.51.16 PM (1).jpeg">
 <h4>
   Group of people:-
 </h4>
-<img src = "10.11.2024_12.53.03_REC.png">
+<img src = "">
 
