@@ -14,5 +14,5 @@
 <h4>
   Group of people:-
 </h4>
-<img src = "">
+<img src = "WhatsApp Image 2024-11-22 at 12.51.16 PM (1).jpeg">
 
